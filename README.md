@@ -1,5 +1,3 @@
-`README.md`
-```md
 # Hi there, I'm a UON Bachelor of IT Student! 👋
 
 Welcome to my GitHub profile!

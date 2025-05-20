@@ -1,6 +1,4 @@
-# Hi there, I'm Taru
-
-## I'm a UON Bachelor of IT Student! 👋
+# Hi there, I'm Taru! 👋
 
 Welcome to my GitHub profile!
 

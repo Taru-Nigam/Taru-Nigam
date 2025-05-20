@@ -21,8 +21,6 @@ I'm currently pursuing my Bachelor of Information Technology at the University o
 | Instagram  | [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/taru-zee-nigam)|
 | GitHub     | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourprofile)|
 
-*(Replace `YOUR_STUDENT_ID` and URLs with your actual student ID and links)*
-
 ---
 
 ### What You'll Find Here

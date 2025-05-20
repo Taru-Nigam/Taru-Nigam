@@ -16,7 +16,7 @@ I'm currently pursuing my Bachelor of Information Technology at the University o
 | Platform   | Link                                               |
 |------------|----------------------------------------------------|
 | YouTube    | [![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Zeesmasher) Account Name: ZeeSmasher |
-| LinkedIn   | [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile) StudentID: C3509116 |
+| LinkedIn   | [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taru-nigam) StudentID: C3509116 |
 | Facebook   | [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/yourprofile) StudentID: C3509116 |
 | Instagram  | [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yourprofile) StudentID: C3509116 |
 | Twitter    | [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile) StudentID: C3509116 |

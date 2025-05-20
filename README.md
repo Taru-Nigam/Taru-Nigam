@@ -38,5 +38,3 @@ Feel free to follow me on social media, watch my latest projects, or drop a mess
 ---
 
 Thank you for visiting my GitHub profile! 🚀
-
-```
